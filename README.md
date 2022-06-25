@@ -1,4 +1,4 @@
-This project/repository is about a Projects CRUD Backend in Java using SpringBoot framework with MySQL Database.
+This project/repository is about a Projects CRUD Backend (WebService REST API) in Java using SpringBoot framework with MySQL Database.
 Model
 Controller
 Repository
